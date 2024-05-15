@@ -1,3 +1,4 @@
+#!/bin/bash
 ##Script to delete a directory interactively
 directoryName=$1
 if test -f $directoryName
